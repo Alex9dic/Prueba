@@ -20,4 +20,8 @@ public class saludo {
       public void metodo3(){
         System.out.println("Soy el saludo tres");
     }
+    
+    public void metodo4(){
+        System.out.println("Soy el saludo cuatro");
+    }
 }
