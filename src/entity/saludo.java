@@ -12,4 +12,8 @@ public class saludo {
     public void metodo1(){
         System.out.println("Soy el saludo uno");
     }
+    
+     public void metodo2(){
+        System.out.println("Soy el saludo DOS");
+    }
 }
