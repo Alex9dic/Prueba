@@ -14,6 +14,10 @@ public class saludo {
     }
     
      public void metodo2(){
-        System.out.println("Soy el saludo DOS");
+        System.out.println("Soy el saludo dos");
+    }
+     
+      public void metodo3(){
+        System.out.println("Soy el saludo tres");
     }
 }
